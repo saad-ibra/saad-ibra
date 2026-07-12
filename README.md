@@ -24,7 +24,7 @@ Corporate booking platform running entirely on edge servers. Zero cold starts, z
 ### [Wings Business Consulting](https://wingsbc.com) ✈️
 *Freelance*
 
-Premium consulting website with a live 3D logo rendered in-browser, scroll-driven animations, glassmorphism design system, and full dark mode.
+Premium consulting website with scroll-driven animations, glassmorphism design system, and full dark mode.
 
 <br/>
 
