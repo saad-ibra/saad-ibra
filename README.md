@@ -14,7 +14,7 @@ An offline-first Android knowledge app with a 3D physics-simulated graph that ma
 
 ---
 
-### [PrimeHS StayDesk](https://primehs.in) 🌐
+### [Prime Hospitality Services](https://primehs.in) 🌐
 *Freelance*
 
 Corporate booking platform running entirely on edge servers. Zero cold starts, zero-latency database reads, role-based access, and strict security headers across the board.
