@@ -1,34 +1,25 @@
 # Heyy, I'm Saad Ibra 🐢🐢🐢
 
-Full-stack and cloud engineer. I've built enterprise AI pipelines, edge-deployed web apps, encrypted Android applications, and 3D browser experiences.
+Full-stack and cloud engineer. I've built enterprise AI pipelines, Web & Android experiences.
 
-Published patent holder. Award-winning ML project. I like solving hard problems and shipping clean systems.
+I lovvve solving problems and shipping clean systems.
 
 <br/>
 
-## 🔨 Things I've Built
+## Things I've Built
 
 ### [Relatrix](https://github.com/saad-ibra/gray-matter) 🔗
 
 An offline-first Android knowledge app with a 3D physics-simulated graph that maps how your ideas connect. Encrypted database, custom PDF reader with annotations, and a wiki-link system that builds the graph automatically.
 
----
+[Website for Prime Hospitality Services](https://primehs.in) 
 
-### [Prime Hospitality Services](https://primehs.in) 🌐
-*Freelance*
+[Website for Wings Business Consulting Website](https://wingsbc.com) 
 
-Corporate booking platform running entirely on edge servers. Zero cold starts, zero-latency database reads, role-based access, and strict security headers across the board.
-
----
-
-### [Wings Business Consulting](https://wingsbc.com) ✈️
-*Freelance*
-
-Premium consulting website with scroll-driven animations, glassmorphism design system, and full dark mode.
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -55,13 +46,13 @@ Premium consulting website with scroll-driven animations, glassmorphism design s
 
 <br/>
 
-## 📬 Get In Touch
+## Get In Touch
 
 <div align="center">
   <a href="https://linkedin.com/in/saadibrahimkhan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:saadibrahimkhan@outlook.com" target="_blank">
+  <a href="https://saadibra.mooo.com/contact/" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
