@@ -2,6 +2,8 @@
 
 Full-stack and cloud engineer. I've built enterprise AI pipelines, Web & Android experiences.
 
+[Everything about me → saadibra.mooo.com](https://saadibra.mooo.com/)
+
 I lovvve solving problems and shipping clean systems.
 
 <br/>
