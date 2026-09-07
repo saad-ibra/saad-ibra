@@ -16,7 +16,7 @@ Relatrix is a note taking app where you can save files and write chronologically
 
 [Website for Prime Hospitality Services](https://primehs.in) 
 
-[Website for Wings Business Consulting Website](https://wingsbc.com) 
+[Website for Wings Business Consulting](https://wingsbc.com) 
 
 
 <br/>
