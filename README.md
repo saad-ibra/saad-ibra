@@ -12,7 +12,7 @@ I lovvve solving problems and shipping clean systems.
 
 ### [Relatrix](https://github.com/saad-ibra/gray-matter) 🔗
 
-An offline-first Android knowledge app with a 3D physics-simulated graph that maps how your ideas connect. Encrypted database, custom PDF reader with annotations, and a wiki-link system that builds the graph automatically.
+Relatrix is a note taking app where you can save files and write chronologically organized opinions (in different forms). Group opinions using tags and draw direct links between related ideas across your library, all visualized in an interactive 3D space called Relatrix. Built for privacy, all data remains strictly offline and encrypted.
 
 [Website for Prime Hospitality Services](https://primehs.in) 
 
