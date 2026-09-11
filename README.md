@@ -12,7 +12,7 @@ I lovvve solving problems and shipping clean systems.
 
 ### [Relatrix](https://github.com/saad-ibra/gray-matter) 🔗
 
-Relatrix is a note taking app where you can save files and write chronologically organized opinions (in different forms). Group opinions using tags and draw direct links between related ideas across your library, all visualized in an interactive 3D space called Relatrix. Built for privacy, all data remains strictly offline and encrypted.
+Relatrix is a note taking app where you can save files and write chronologically organized opinion cards (of different types). Group these cards using tags and draw direct links between related ideas across your library, all visualized in an interactive 3D space called Relatrix. Built for privacy, all data remains strictly offline and encrypted.
 
 [Website for Prime Hospitality Services](https://primehs.in) 
 
