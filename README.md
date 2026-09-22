@@ -1,10 +1,13 @@
 # Heyy, I'm Saad Ibra 🐢🐢🐢
 
-Full-stack and cloud engineer. I've built enterprise AI pipelines, Web & Android experiences.
+Full-stack and cloud engineer. I've built enterprise AI pipelines, Web & Android experiences. 
 
-[Everything about me → saadibra.mooo.com](https://saadibra.mooo.com/)
 
-I lovvve solving problems and shipping clean systems.
+### ↗ [Begin Exploring](https://saadibra.mooo.com)
+
+<a href="https://saadibra.mooo.com">
+  <img src="./assets/portfolio.png" width="100%" />
+</a>
 
 <br/>
 
