@@ -1,22 +1,24 @@
 # Heyy, I'm Saad Ibra 🐢🐢🐢
 
 Full-stack and cloud engineer. I've built enterprise AI pipelines, Web & Android experiences. 
-
-
-### ↗ [Begin Exploring](https://saadibra.mooo.com)
-
-<a href="https://saadibra.mooo.com">
-  <img src="./assets/portfolio.png" width="100%" />
-</a>
-
 <br/>
+I love solving problems and shipping clean systems.
+<br/>
+<br/>
+
 
 ## Things I've Built
 
-### [Relatrix](https://github.com/saad-ibra/gray-matter) 🔗
+### ↗ [Relatrix](https://github.com/saad-ibra/gray-matter) 🔗
 
 **Relatrix** is a note taking app where you can save files and write **chronologically organized opinion cards** (of different types). Group these cards using **Tags** & Draw Direct **Links** between related ideas across your library, all visualized in an interactive 3D space called **Relatrix**. Built for privacy, all data remains **strictly offline and encrypted**.
 
+
+### ▶ [Enter the World](https://saadibra.mooo.com) 🍂
+
+<a href="https://saadibra.mooo.com/">
+  <img src="./portfolio.png" alt="Explore Saad's World" width="550">
+</a>
 
 <br/>
 
