@@ -1,8 +1,6 @@
 # Heyy, I'm Saad Ibra 🐢🐢🐢
 
-Full-stack and cloud engineer. I've built enterprise AI pipelines, Web & Android experiences. 
-<br/>
-I lovve solving problems and shipping clean systems.
+I like software with fewer locks, walls and more freedom
 <br/>
 <br/>
 
